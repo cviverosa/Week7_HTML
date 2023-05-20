@@ -1,0 +1,38 @@
+body {
+    background-color: darkseagreen;
+
+}
+
+.Contact {
+    position: absolute;
+    left: 500px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 8%;
+}
+
+h1 {
+    color: blue;
+    font-family: fantasy;
+}
+
+h3 {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+}
+
+.KingdomHearts {
+    position: absolute;
+    left: 300px;
+
+}
+
+.WorkInfo {
+    padding-left: 40px;
+}
